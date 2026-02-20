@@ -1,0 +1,10 @@
+{
+  "name": "collab-server",
+  "version": "1.0.0",
+  "type": "module",
+  "main": "server.js",
+  "dependencies": {
+    "ws": "^8.19.0",
+    "y-websocket": "^3.0.0"
+  }
+}
